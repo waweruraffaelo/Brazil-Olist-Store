@@ -23,4 +23,4 @@ olist_products_dataset.csv - Product information
 
 olist_sellers_dataset.csv - Seller information
 
-product_category_name_translation.csv - Product category translations (Portuguese to English)
+product_category_name_translation.csv - Product category translations (Portuguese to English)![image](https://github.com/user-attachments/assets/b0d6e874-c8da-45b6-a699-18c88e5a44e2)
